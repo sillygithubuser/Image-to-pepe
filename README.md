@@ -14,5 +14,5 @@ If korean is not your language, follow these steps:
 4.Turn on the devoloper mode.   
 5.Upload the file   
 
-#Patreon   
+# Patreon   
 Become our patreon in [here](https://www.patreon.com/chatgptchatservice)
