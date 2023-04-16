@@ -13,3 +13,6 @@ If korean is not your language, follow these steps:
 3.Go to chrome://extentions   
 4.Turn on the devoloper mode.   
 5.Upload the file   
+
+#Patreon
+Become our patreon in [here](https://www.patreon.com/chatgptchatservice)
